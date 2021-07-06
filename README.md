@@ -1,6 +1,6 @@
 ![header](imagenes/header.png)
 
-## Proyecto TP4 Testing - IOT (UBA)
+## TP4 Testing - IOT (UBA)
 
 Autor:
 * Iván Cruz Flores
@@ -22,14 +22,14 @@ Docentes:
 
 Hacer funcionar webdriver con chrome tal que busque en google una palabra y vaya al
 tercer resultado no patrocinado.
-
-## Demostración de Funcionamiento:
-
-* Funcionamiento. 
+```
+ En el siguiente video se muestra el Funcionamiento:
+```
 ![play1](imagenes/play.png) https://youtu.be/FpIXaHp_KVE
 
-## Resultado
-
+```
+ Resultado obtenido en la terminal:
+```
 ![imagen_bdd](imagenes/resultado-final.png)
 
 ## Dependencias NPM:
