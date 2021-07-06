@@ -11,25 +11,26 @@ Docentes:
 * Esp. Ing. Alejandro Permingeat.
 * Carlos Pantelides.
 
-## TEMA: Selenium WebDriver - Testing
+## TEMA: Selenium WebDriver
 
 * Selenium es una herramienta de código abierto que se utiliza para automatizar las pruebas realizadas en los navegadores web. 
 * Selenium WebDriver es un framework de automatización web que le permite ejecutar sus pruebas contra diferentes navegadores.
 
 ![imagen_bdd](imagenes/driver-arquitectura.jpg)
 
-## Caso de estudio a Desarrollar:
+## Práctica de estudio:
 
 Hacer funcionar webdriver con chrome tal que busque en google una palabra y vaya al
 tercer resultado no patrocinado.
 
-```
-* Video de demostración: https://youtu.be/FpIXaHp_KVE
+## Demostración de Funcionamiento:
 
-```
+* Funcionamiento. 
+![play1](imagenes/play.png) https://youtu.be/FpIXaHp_KVE
+
 ## Resultado
 
-![imagen_bdd](imagenes/resultado.png)
+![imagen_bdd](imagenes/resultado-final.png)
 
 ## Dependencias NPM:
 ```
