@@ -1,0 +1,28 @@
+{
+  "name": "tp4-testing",
+  "version": "1.0.0",
+  "description": "Tp4 testing web",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chromedriver": "^91.0.1",
+    "geckodriver": "^2.0.1",
+    "selenium-webdriver": "^4.0.0-beta.4"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.2"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanCF/tp4-testing.git"
+  },
+  "author": "Ivan CF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanCF/tp4-testing/issues"
+  },
+  "homepage": "https://github.com/IvanCF/tp4-testing#readme"
+}
